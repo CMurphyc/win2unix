@@ -1,1 +1,2 @@
 # win2unix
+win环境下标准的CRLF换行符转换为UNIX标准的LF
