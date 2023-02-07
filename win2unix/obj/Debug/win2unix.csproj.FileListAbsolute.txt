@@ -1,0 +1,6 @@
+C:\Users\murphycui\source\repos\win2unix\win2unix\obj\Debug\win2unix.csproj.CoreCompileInputs.cache
+C:\Users\murphycui\source\repos\win2unix\win2unix\bin\Debug\win2unix.exe.config
+C:\Users\murphycui\source\repos\win2unix\win2unix\bin\Debug\win2unix.exe
+C:\Users\murphycui\source\repos\win2unix\win2unix\bin\Debug\win2unix.pdb
+C:\Users\murphycui\source\repos\win2unix\win2unix\obj\Debug\win2unix.exe
+C:\Users\murphycui\source\repos\win2unix\win2unix\obj\Debug\win2unix.pdb
